@@ -1,1 +1,5 @@
+
 hago un cambio en feature_2
+
+cambio otra vez el contenido en feature_1, para que salga conflicto
+
