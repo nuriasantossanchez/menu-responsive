@@ -1,1 +1,1 @@
-modifico texto en feature_1
+cambio otra vez el contenido en feature_1, para que salga conflicto
